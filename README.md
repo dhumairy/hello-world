@@ -1,5 +1,5 @@
 # hello-world
-just another repository
+My fist repository
 
 
 Say hello to the world!!
